@@ -1,0 +1,85 @@
+.home{
+    h1{
+    width: 90%;
+    margin: 20px auto;
+    padding-left: 80px;
+    align-items: center;
+    font-family: 'Poppins';
+    font-size: 35px;
+    color: #ff6400;
+    }
+    .b-box{
+        .card1{
+        display: flex;
+        justify-content: space-between;
+        background-color: #fafafa;
+        margin-left: 150px;
+        margin-right: 150px;
+        border-radius: 10px;
+        .ucard{
+            padding: 60px 25px 60px 60px;
+            img{
+                border-radius: 13px;
+                width: 330px;
+                height: 200px;
+                box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            }
+        }
+        .ucardtext{
+            h1{
+                padding: 0;
+                margin-left: 0;
+                margin-top: 70px;
+                color: black;
+                font-family: 'Montserrat';
+                font-weight: 1000;
+            }
+            span{
+                font-size: 15px;
+                font-family: 'Poppins';
+            }
+        }
+        
+    }
+    .sectext{
+        display: flex;
+        padding-top: 30px;
+        font-size: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        i{
+                color: #ff6400;
+                padding-right: 10px;
+                font-size: 45px;
+            }
+        .kart{
+            display: flex;
+            padding-right: 20px;
+        }
+        .kredit{
+            display: flex;
+            padding-right: 20px;
+        }
+        .shopping{
+            display: flex;
+        }
+    }
+    .ucardbtn button{
+        display: flex;
+        justify-content: space-between;
+        margin-right: 40px;
+        margin-top: 95px;
+        padding: 10px 40px;
+        border-radius: 23px;
+        font-size: 15px;
+        font-weight: bold;
+        border: 1px solid #ff6400;
+        background-color: #ff6400;
+        color: white;
+        letter-spacing: 1px;
+        i{
+            color: white;
+        }
+        }
+        
+        }
+}

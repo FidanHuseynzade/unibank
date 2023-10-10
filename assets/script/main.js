@@ -1,0 +1,10 @@
+let x = 12;
+console.log(x);
+let name = "Fidan:yoruldum";
+console.log(name);
+let age = 20;
+console.log(age);
+let isMarried = true;
+console.log(isMarried);
+let students = ["Aydan", "Sema"];
+console.log(students);

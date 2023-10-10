@@ -1,0 +1,145 @@
+.other{
+    h1{
+        width: 90%;
+        margin: 20px auto;
+        padding-left: 80px;
+        align-items: center;
+        display: flex;
+        font-family: 'Poppins';
+        font-size: 35px;
+        color: #ff6400;
+        }
+        .container{
+            .col3{
+                display: flex;
+                gap: 30px;
+                padding: 30px;
+                .row{
+                    background-color: #fafafa;
+                    width: 50%;
+                    border-radius: 10px;.col-lg-6-box{
+                    .card{
+                    width: 500px;
+                    height: 100%;
+                }
+                img{
+                    width: 350px;
+                    height: 230px;
+                    border-radius: 10px;
+                    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+                }
+                h3{
+                    font-size: 30px;
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                    padding-top: 25px;
+                }
+                p{
+                    font-size: 14px;
+                    font-family: 'Poppins';
+                }
+                .ucardbtn button{
+                    display: flex;
+                    justify-content: space-between;
+                    margin-right: 40px;
+                    margin-top: 55px;
+                    padding: 10px 40px;
+                    border-radius: 23px;
+                    font-size: 15px;
+                    font-weight: bold;
+                    border: 1px solid #ff6400;
+                    background-color: #ff6400;
+                    color: white;
+                    letter-spacing: 1px;
+                    i{
+                        color: white;
+                    }
+                    }
+                    
+                }
+            }
+        }
+        .col4{
+            display: flex;
+            gap: 30px;
+            padding: 30px;
+            .row{
+                background-color: #fafafa;
+                width: 50%;
+                border-radius: 10px;.col-lg-6-box{
+                .card{
+                width: 500px;
+                height: 100%;
+            }
+            img{
+                width: 350px;
+                height: 230px;
+                border-radius: 10px;
+                box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+            }
+            h3{
+                font-size: 30px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                padding-top: 25px;
+            }
+            p{
+                font-size: 14px;
+                font-family: 'Poppins';
+            }
+            .ucardbtn button{
+                display: flex;
+                justify-content: space-between;
+                margin-right: 40px;
+                margin-top: 55px;
+                padding: 10px 40px;
+                border-radius: 23px;
+                font-size: 15px;
+                font-weight: bold;
+                border: 1px solid #ff6400;
+                background-color: #ff6400;
+                color: white;
+                letter-spacing: 1px;
+                i{
+                    color: white;
+                }
+                }
+                .buttons{
+                    display: flex;
+                    .ucardbtn button{
+                        display: flex;
+                        justify-content: space-between;
+                        margin-right: 40px;
+                        margin-top: 55px;
+                        padding: 10px 40px;
+                        border-radius: 23px;
+                        font-size: 15px;
+                        font-weight: bold;
+                        border: 1px solid #ff6400;
+                        background-color: #ff6400;
+                        color: white;
+                        letter-spacing: 1px;
+                        i{
+                            color: white;
+                        }
+                        }
+                        .partnerbtn button{
+                            display: flex;
+                            justify-content: space-between;
+                            margin-right: 40px;
+                            margin-top: 55px;
+                            padding: 10px 40px;
+                            border-radius: 23px;
+                            font-size: 15px;
+                            font-weight: bold;
+                            border: 1px solid #b9b1b19b;
+                            background-color: #fafafa;
+                            color: #b9b1b19b;
+                            letter-spacing: 1px;
+                            }
+                }
+                
+            }
+        }
+    }
+     }
+  }
+    
